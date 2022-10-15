@@ -1,1 +1,1 @@
-# BaseDatos_Lab
+# Repositorio para el laboratorio de Base de Datos
