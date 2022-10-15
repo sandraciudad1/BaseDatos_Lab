@@ -1,0 +1,155 @@
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\obj\Debug\Personas.vbprojAssemblyReference.cache
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\obj\Debug\Personas.Resources.resources
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\obj\Debug\Personas.frmPersonas.resources
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\obj\Debug\Personas.vbproj.GenerateResource.cache
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\bin\Debug\Personas.exe.config
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\bin\Debug\Personas.exe
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\bin\Debug\Personas.pdb
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\bin\Debug\Personas.xml
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\obj\Debug\Personas.exe
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\obj\Debug\Personas.xml
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Personas\Personas\obj\Debug\Personas.pdb
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\bin\Debug\Personas.exe.config
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\bin\Debug\Personas.exe
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\bin\Debug\Personas.pdb
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\bin\Debug\Personas.xml
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\obj\Debug\Personas.vbprojAssemblyReference.cache
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\obj\Debug\Personas.Resources.resources
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\obj\Debug\Personas.frmPersonas.resources
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\obj\Debug\Personas.vbproj.GenerateResource.cache
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\obj\Debug\Personas.exe
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\obj\Debug\Personas.xml
+C:\Users\AQC\Documents\UCLM\2019-2020\BBDD\Practicas\P2\Solucion\Personas\Personas\obj\Debug\Personas.pdb
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\Personas.exe.config
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\Personas.exe
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\Personas.pdb
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\Personas.xml
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\MySql.Data.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\Google.Protobuf.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\ZstdNet.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\System.Memory.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\System.Buffers.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AQC\source\repos\2022\Personas\Personas\bin\Debug\MySql.Data.xml
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.vbproj.AssemblyReference.cache
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.exe.config
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.Resources.resources
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.frmPersonas.resources
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.vbproj.GenerateResource.cache
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.vbproj.CoreCompileInputs.cache
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.vbproj.CopyComplete
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.exe
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.xml
+C:\Users\AQC\source\repos\2022\Personas\Personas\obj\Debug\Personas.pdb
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\Personas.exe.config
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\Personas.exe
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\Personas.pdb
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\Personas.xml
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\MySql.Data.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\Google.Protobuf.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\ZstdNet.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\System.Memory.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\System.Buffers.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\bin\Debug\MySql.Data.xml
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.vbproj.AssemblyReference.cache
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.exe.config
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.Resources.resources
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.frmPersonas.resources
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.vbproj.GenerateResource.cache
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.vbproj.CoreCompileInputs.cache
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.vbproj.CopyComplete
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.exe
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.xml
+C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.pdb
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.exe
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.xml
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.pdb
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\Personas.exe.config
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\Personas.exe
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\Personas.pdb
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\Personas.xml
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\MySql.Data.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\Google.Protobuf.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\ZstdNet.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\BouncyCastle.Crypto.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\Ubiety.Dns.Core.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\System.Memory.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\System.Buffers.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\K4os.Compression.LZ4.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\K4os.Hash.xxHash.dll
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\bin\Debug\MySql.Data.xml
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.vbproj.AssemblyReference.cache
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.vbproj.SuggestedBindingRedirects.cache
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.exe.config
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.Resources.resources
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.frmPersonas.resources
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.vbproj.GenerateResource.cache
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.vbproj.CoreCompileInputs.cache
+D:\Universidad\2ºC\2º Cuatrimestre\Bases de Datos\Laboratorio\Practica2\Personas\obj\Debug\Personas.vbproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\Personas.exe.config
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\Personas.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\Personas.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\Personas.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\Google.Protobuf.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\ZstdNet.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\System.Memory.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\System.Buffers.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\bin\Debug\MySql.Data.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.vbproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.exe.config
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.Resources.resources
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.frmPersonas.resources
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.vbproj.GenerateResource.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.vbproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.vbproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Practica2\Personas\obj\Debug\Personas.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.vbproj.AssemblyReference.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.exe.config
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.Resources.resources
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.frmJugadoras.resources
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.vbproj.GenerateResource.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.vbproj.CoreCompileInputs.cache
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\Personas.exe.config
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\Personas.exe
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\Personas.pdb
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\Personas.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\MySql.Data.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\Google.Protobuf.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\ZstdNet.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\System.Memory.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\System.Buffers.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\bin\Debug\MySql.Data.xml
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.vbproj.CopyComplete
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.frmInicio.resources
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.frmPaises.resources
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.frmTorneos.resources
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.frmEdicion.resources
+C:\Users\sandr.LAPTOP-GVVQRNIB\Desktop\Base de Datos\LABORATORIO 21.22\Proyectox2\Personas\obj\Debug\Personas.frmInformes.resources
